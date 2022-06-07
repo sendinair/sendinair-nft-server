@@ -40,3 +40,11 @@ Download codes and run with following command
 
 ## How to change PORT
 - Change PORT in .env file
+
+## Usage
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_create_xlvdrl.jpg" />
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_create_result_gsnprc.jpg" />
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_list_fophgo.jpg" />
+</p>
