@@ -44,7 +44,7 @@ Download codes and run with following command
 ## Usage
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_create_xlvdrl.jpg" />
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_create_result_gsnprc.jpg" />
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_250/v1654583596/sendinair_project/sendinair_nft_wallet_list_fophgo.jpg" />
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_500/v1654583596/sendinair_project/sendinair_nft_wallet_create_xlvdrl.jpg" />
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_500/v1654583596/sendinair_project/sendinair_nft_wallet_create_result_gsnprc.jpg" />
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_300/v1654583596/sendinair_project/sendinair_nft_wallet_list_fophgo.jpg" />
 </p>
