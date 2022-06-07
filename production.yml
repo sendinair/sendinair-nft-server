@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   api:
-    image: sendinair/exchange_server
+    image: sendinair/nft-server
     env_file: docker-compose.env
     environment:
       SERVICES: api
@@ -19,11 +19,11 @@ services:
     networks:
       - internal
 
-  usdt.btc.exchange:
-    image: sendinair/exchange_server
+  blockchain.klaytn.nft:
+    image: sendinair/nft-server
     env_file: docker-compose.env
     environment:      
-      SERVICES: usdt.btc.exchange
+      SERVICES: blockchain.klaytn.nft
     depends_on:
       - nats
     networks:
