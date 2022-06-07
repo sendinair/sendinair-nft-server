@@ -7,7 +7,8 @@
 SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balance with wallet addresses.
 
 ## Supported blockchain
-Klaytn - baobab (testnet)
+- Klaytn
+- Ethereum (Work in progress)
 
 ## Features
 - Minting
