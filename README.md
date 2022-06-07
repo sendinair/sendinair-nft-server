@@ -36,3 +36,6 @@ Download codes and run with following command
 
 ## How to test API
 1. [Download Insomnia (API testing tool)](https://insomnia.rest/download)
+
+## How to change PORT
+- Change PORT in .env file
