@@ -20,6 +20,18 @@ services:
     networks:
       - internal
 
+  blockchain.klaytn:
+    image: sendinair/nft-server
+    env_file: docker-compose.env
+    environment:      
+      SERVICES: blockchain.klaytn
+    depends_on:
+      - nats
+    networks:
+      - internal
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+      
   blockchain.klaytn.nft:
     image: sendinair/nft-server
     env_file: docker-compose.env
