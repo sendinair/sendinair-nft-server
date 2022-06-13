@@ -32,6 +32,7 @@ Your system must have the following requirements to install exchange engine.
 ## Instructions
 Download codes and run with following command
 - Clone this repogitory `git clone https://github.com/sendinair/sendinair-nft-server.git`
+- Enter your API key in the .env file
 - Start with `docker-compose -f production.yml up --build -d`
 - Stop with `docker-compose -f production.yml down`
 
