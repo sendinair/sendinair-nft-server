@@ -40,8 +40,10 @@ Download codes and run with following command
 1. [Download Insomnia (API testing tool)](https://insomnia.rest/download)
 2. [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=sendinair-nft-server&uri=https%3A%2F%2Fsendinair-doc-test.s3.ap-northeast-2.amazonaws.com%2Fdoc%2Btest%2Fsendinair-nft-server.json)
 
-## How to change PORT
-- Change PORT in .env file
+## How to change PORT or API_KEY
+- Stop the server if it's already running
+- Change PORT or API_KEY in the .env file
+- Start the server
 
 ## Usage
 
