@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://sendinair.com/"><img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_400/v1654403006/SendInAir%20design/SendInAir_logo2_vzge5u.png" /></a>
+<a href="http://sendinair.com/"><img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_400/v1655263343/SendInAir%20design/sendinair_logo_dgzmyv.png" /></a>
 </p>
 
 # SendInAir NFT Server
@@ -7,8 +7,8 @@
 SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balance with wallet addresses.
 
 ## Supported blockchain
+- Ethereum
 - Klaytn
-- Ethereum (Work in progress)
 
 ## Features
 - Minting
