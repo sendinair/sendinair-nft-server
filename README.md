@@ -42,7 +42,7 @@ Download codes and run with following command
 
 ## How to receive updates
 - Stop the server first before recieving the updates
-- Run `docker pull sendinair/crypto-wallet-server`
+- Run `docker pull sendinair/nft-server`
 
 ## How to change PORT or API_KEY
 - Stop the server if it's already running
