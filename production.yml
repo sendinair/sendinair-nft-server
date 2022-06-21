@@ -7,7 +7,6 @@ services:
     environment:
       SERVICES: api
       PORT: $PORT
-      API_KEY: $API_KEY
     ports:
       - 3030:3030
     depends_on:
