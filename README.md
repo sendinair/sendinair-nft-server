@@ -40,6 +40,12 @@ Your system must have the following requirements to install Sendinair NFT Server
 
 <br/>
 
+## How to create & deploy NFT smart contract
+If you are not sure on how to do this, we've created a easy-to-follow wiki for you.
+Check it out [here](https://woojae-jun.gitbook.io/sendinair-nft-server/).
+
+<br/>
+
 ## Instructions
 Download the product
 - Clone this repository `git clone https://github.com/sendinair/sendinair-nft-server.git`
