@@ -20,7 +20,10 @@ SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balanc
 
 ## System requirements
 
-Your system must have the following requirements to install exchange engine.
+Your system must have the following requirements to install Sendinair NFT Server.
+
+> Download and install git
+> [Install Git](https://github.com/git-guides/install-git/)
 
 > Download Docker
 > [Docker Homepage](https://www.docker.com/get-started/)
@@ -31,8 +34,10 @@ Your system must have the following requirements to install exchange engine.
 
 ## Instructions
 Download codes and run with following command
-- Clone this repogitory `git clone https://github.com/sendinair/sendinair-nft-server.git`
-- Enter your API key in the .env file
+- Clone this repository `git clone https://github.com/sendinair/sendinair-nft-server.git`
+- Enter your API key in the docker-compose.env file
+- Enter your deployed ETH / KLAY contract address in NFT_CONTRACT_ADDRESS_ETH or NFT_CONTRACT_ADDRESS_KLAY
+- Enter your contract owner private key for ETH / KLAY in NFT_CONTRACT_OWNER_PRIVATE_KEY_ETH or NFT_CONTRACT_OWNER_PRIVATE_KEY_KLAY
 - Start with `docker-compose -f production.yml up --build -d`
 - Stop with `docker-compose -f production.yml down`
 
@@ -44,9 +49,9 @@ Download codes and run with following command
 - Stop the server first before recieving the updates
 - Run `docker pull sendinair/nft-server`
 
-## How to change PORT or API_KEY
+## How to change the PORT
 - Stop the server if it's already running
-- Change PORT or API_KEY in the .env file
+- Change PORT in the .docker-compose.env file
 - Start the server
 
 ## Usage
