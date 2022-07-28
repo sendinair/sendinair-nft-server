@@ -40,6 +40,21 @@ Your system must have the following requirements to install Sendinair NFT Server
 
 <br/>
 
+## Install Docker & Docker-compose in 1 min
+*For Linux and Mac
+> Installation
+- [Run](https://github.com/docker/docker-install) `curl -fsSL https://get.docker.com -o get-docker.sh`
+- Then `sh get-docker.sh` to install Docker
+- `sudo apt  install docker-compose` to install Docker-compose
+> Post Installation [(permission setting)](https://docs.docker.com/engine/install/linux-postinstall/)
+- `sudo groupadd docker` (move on to the next step if it already exists)
+- `sudo usermod -aG docker $USER`
+- `newgrp docker`
+
+**You're all ready to use our product! 🎉**
+
+<br/>
+
 ## How to create & deploy NFT smart contract
 You need an ***already deployed smart contract address*** (ETH / KLAY) to use this product.
 If you are not sure on how to do this, we've created a easy-to-follow wiki for you.
@@ -58,7 +73,7 @@ Add necessary information
 
 > You should enter your information on the ***right*** side of the equal symbol(=)
 - Open ***docker-compose.env*** file
-- Enter the api key you got from SendInAir in `API_KEY`
+- Enter the api key you got from SendInAir in `API_KEY` (Tester key is already included)
 - Enter your deployed ETH / KLAY contract address in `NFT_CONTRACT_ADDRESS_ETH` or `NFT_CONTRACT_ADDRESS_KLAY`
 - Enter your contract owner private key for ETH / KLAY in `NFT_CONTRACT_OWNER_PRIVATE_KEY_ETH` or `NFT_CONTRACT_OWNER_PRIVATE_KEY_KLAY`
 - Save and close ***docker-compose.env*** file
@@ -95,3 +110,22 @@ Start / Stop the server
   <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_500/v1654583596/sendinair_project/sendinair_nft_wallet_create_result_gsnprc.jpg" />
   <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_300/v1654583596/sendinair_project/sendinair_nft_wallet_list_fophgo.jpg" />
 </p>
+
+License
+=======
+
+    Copyright 2022 SendInAir,Inc
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+
