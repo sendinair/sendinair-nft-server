@@ -29,14 +29,9 @@ SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balanc
 ## System requirements
 
 Your system must have the following requirements to install Sendinair NFT Server.
-
-> [Download and install git](https://github.com/git-guides/install-git/)
-
-> Download Docker
-> [Docker Homepage](https://www.docker.com/get-started/)
-
-> Download docker-compose
-> [docker-compose](https://docs.docker.com/compose/install/)
+- Git
+- Docker
+- Docker-compose
 
 <br/>
 
@@ -50,6 +45,15 @@ Your system must have the following requirements to install Sendinair NFT Server
 - `sudo groupadd docker` (move on to the next step if it already exists)
 - `sudo usermod -aG docker $USER`
 - `newgrp docker`
+
+*For Windows
+> [Download and install git](https://github.com/git-guides/install-git/)
+
+> Download Docker
+> [Docker Homepage](https://www.docker.com/get-started/)
+
+> Download docker-compose
+> [docker-compose](https://docs.docker.com/compose/install/)
 
 **You're all ready to use our product! 🎉**
 
