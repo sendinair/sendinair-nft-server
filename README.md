@@ -29,14 +29,9 @@ SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balanc
 ## System requirements
 
 Your system must have the following requirements to install Sendinair NFT Server.
-
-> [Download and install git](https://github.com/git-guides/install-git/)
-
-> Download Docker
-> [Docker Homepage](https://www.docker.com/get-started/)
-
-> Download docker-compose
-> [docker-compose](https://docs.docker.com/compose/install/)
+- Git
+- Docker
+- Docker-compose
 
 <br/>
 
@@ -50,6 +45,15 @@ Your system must have the following requirements to install Sendinair NFT Server
 - `sudo groupadd docker` (move on to the next step if it already exists)
 - `sudo usermod -aG docker $USER`
 - `newgrp docker`
+
+*For Windows
+> [Download and install git](https://github.com/git-guides/install-git/)
+
+> Download Docker
+> [Docker Homepage](https://www.docker.com/get-started/)
+
+> Download docker-compose
+> [docker-compose](https://docs.docker.com/compose/install/)
 
 **You're all ready to use our product! 🎉**
 
@@ -73,7 +77,8 @@ Add necessary information
 
 > You should enter your information on the ***right*** side of the equal symbol(=)
 - Open ***docker-compose.env*** file
-- Enter the api key you got from SendInAir in `API_KEY` (Tester key is already included)
+- Enter the api key you got from SendInAir in `API_KEY`
+  - You can use the tester key that's already included in the file
 - Enter your deployed ETH / KLAY contract address in `NFT_CONTRACT_ADDRESS_ETH` or `NFT_CONTRACT_ADDRESS_KLAY`
 - Enter your contract owner private key for ETH / KLAY in `NFT_CONTRACT_OWNER_PRIVATE_KEY_ETH` or `NFT_CONTRACT_OWNER_PRIVATE_KEY_KLAY`
 - Save and close ***docker-compose.env*** file
