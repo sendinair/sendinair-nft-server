@@ -40,6 +40,21 @@ Your system must have the following requirements to install Sendinair NFT Server
 
 <br/>
 
+## Install Docker & Docker-compose in 1 min
+*For Linux and Mac
+> Installation
+- [Run](https://github.com/docker/docker-install) `curl -fsSL https://get.docker.com -o get-docker.sh`
+- Then `sh get-docker.sh` to install Docker
+- `sudo apt  install docker-compose` to install Docker-compose
+> Post Installation [(permission setting)](https://docs.docker.com/engine/install/linux-postinstall/)
+- `sudo groupadd docker` (move on to the next step if it already exists)
+- `sudo usermod -aG docker $USER`
+- `newgrp docker`
+
+**You're all ready to use our product!**
+
+<br/>
+
 ## How to create & deploy NFT smart contract
 You need an ***already deployed smart contract address*** (ETH / KLAY) to use this product.
 If you are not sure on how to do this, we've created a easy-to-follow wiki for you.
