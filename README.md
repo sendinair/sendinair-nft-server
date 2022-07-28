@@ -51,7 +51,7 @@ Your system must have the following requirements to install Sendinair NFT Server
 - `sudo usermod -aG docker $USER`
 - `newgrp docker`
 
-**You're all ready to use our product!**
+**You're all ready to use our product! 🎉**
 
 <br/>
 
