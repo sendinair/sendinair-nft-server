@@ -73,7 +73,7 @@ Add necessary information
 
 > You should enter your information on the ***right*** side of the equal symbol(=)
 - Open ***docker-compose.env*** file
-- Enter the api key you got from SendInAir in `API_KEY`
+- Enter the api key you got from SendInAir in `API_KEY` (Tester key is already included)
 - Enter your deployed ETH / KLAY contract address in `NFT_CONTRACT_ADDRESS_ETH` or `NFT_CONTRACT_ADDRESS_KLAY`
 - Enter your contract owner private key for ETH / KLAY in `NFT_CONTRACT_OWNER_PRIVATE_KEY_ETH` or `NFT_CONTRACT_OWNER_PRIVATE_KEY_KLAY`
 - Save and close ***docker-compose.env*** file
