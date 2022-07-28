@@ -60,10 +60,13 @@ Your system must have the following requirements to install Sendinair NFT Server
 <br/>
 
 ## How to create & deploy NFT smart contract
-You need an ***already deployed smart contract address*** (ETH / KLAY) to use this product.
+You need an ***already deployed smart contract address*** (ETH / KLAY) to use this in ***production***.
 If you are not sure on how to do this, we've created a easy-to-follow wiki for you.
 
 Check it out [here](https://woojae-jun.gitbook.io/sendinair-nft-server/).
+
+***🚗 Or you can skip this part and simply test our API with default environment file***
+- We've set all the variables so you can test immediately!
 
 <br/>
 
