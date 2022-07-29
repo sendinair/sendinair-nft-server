@@ -50,10 +50,8 @@ Your system must have the following requirements to install Sendinair NFT Server
 - [Download and install Docker](https://docs.docker.com/desktop/install/mac-install/)
 
 *For Windows
-> [Download and install git](https://github.com/git-guides/install-git/)
-
-> Download and install Docker
-> [Docker Homepage](https://www.docker.com/get-started/)
+- [Download and install git](https://github.com/git-guides/install-git/)
+- [Download and install Docker](https://docs.docker.com/desktop/install/windows-install/)
 
 **You're all ready to use our product! 🎉**
 
