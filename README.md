@@ -36,24 +36,24 @@ Your system must have the following requirements to install Sendinair NFT Server
 <br/>
 
 ## Install Docker & Docker-compose in 1 min
-*For Linux and Mac
+*For Linux
 > Installation
 - [Run](https://github.com/docker/docker-install) `curl -fsSL https://get.docker.com -o get-docker.sh`
 - Then `sh get-docker.sh` to install Docker
-- `sudo apt  install docker-compose` to install Docker-compose
+- `sudo apt install docker-compose` to install Docker-compose
 > Post Installation [(permission setting)](https://docs.docker.com/engine/install/linux-postinstall/)
 - `sudo groupadd docker` (move on to the next step if it already exists)
 - `sudo usermod -aG docker $USER`
 - `newgrp docker`
 
+*For Mac
+- [Download and install Docker](https://docs.docker.com/desktop/install/mac-install/)
+
 *For Windows
 > [Download and install git](https://github.com/git-guides/install-git/)
 
-> Download Docker
+> Download and install Docker
 > [Docker Homepage](https://www.docker.com/get-started/)
-
-> Download docker-compose
-> [docker-compose](https://docs.docker.com/compose/install/)
 
 **You're all ready to use our product! 🎉**
 
