@@ -1,6 +1,10 @@
 # SendInAir NFT Server
 
-SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balance with wallet addresses.
+<p>
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/v1659149392/SendInAir%20design/BAYC_nft_list_sxn5po.png" />
+</p>
+
+SendInAir NFT API solves the hardest part of making NFT service and provides APIs for integrating into your Web3 service.
 
 <br/>
 
@@ -100,14 +104,6 @@ Start / Stop the server
 - Stop the server if it's already running
 - Change `PORT` in the ***.env*** file
 - Start the server
-
-<br/>
-
-## Usage
-
-<p>
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/v1659149392/SendInAir%20design/BAYC_nft_list_sxn5po.png" />
-</p>
 
 <br/>
 
