@@ -1,9 +1,3 @@
-<br/>
-<p align="center">
-<a href="http://sendinair.com/"><img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_400/v1655263343/SendInAir%20design/sendinair_logo_dgzmyv.png" /></a>
-</p>
-<br/>
-
 # SendInAir NFT Server
 
 SendInAir NFT Server. It can be used to mint and transfer NFTs, and check balance with wallet addresses.
@@ -111,11 +105,17 @@ Start / Stop the server
 
 ## Usage
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_500/v1654583596/sendinair_project/sendinair_nft_wallet_create_xlvdrl.jpg" />
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_500/v1654583596/sendinair_project/sendinair_nft_wallet_create_result_gsnprc.jpg" />
-  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/h_300/v1654583596/sendinair_project/sendinair_nft_wallet_list_fophgo.jpg" />
+<p>
+  <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/v1659149392/SendInAir%20design/BAYC_nft_list_sxn5po.png" />
 </p>
+
+<br/>
+
+<p align="center">
+<a href="http://sendinair.com/"><img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/w_400/v1655263343/SendInAir%20design/sendinair_logo_dgzmyv.png" /></a>
+</p>
+
+<br/>
 
 License
 =======
