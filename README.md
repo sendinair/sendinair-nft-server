@@ -92,7 +92,7 @@ Start / Stop the server
 
 ## How to test the APIs
 1. [Download Insomnia (API testing tool)](https://insomnia.rest/download)
-2. [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=sendinair-nft-server&uri=https%3A%2F%2Fsendinair-doc-test.s3.ap-northeast-2.amazonaws.com%2Fdoc%2Btest%2Fsendinair-nft-server.json)
+2. [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Sendinair%20NFT%20Server&uri=https%3A%2F%2Fsendinair-doc-test.s3.ap-northeast-2.amazonaws.com%2Fdoc%2Btest%2Fsendinair-nft-server-insomnia_2022-07-30.json)
 
 <br/>
 
