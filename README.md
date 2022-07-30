@@ -1,4 +1,4 @@
-# SendInAir NFT Server
+# SendInAir NFT API
 
 <p>
   <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/v1659149392/SendInAir%20design/BAYC_nft_list_sxn5po.png" />
