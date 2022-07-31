@@ -16,7 +16,7 @@ SendInAir solves the hardest part of making NFT service and provides APIs for in
 
 ## Features
 - Minting
-- Transfer (Do not send your private key parameter over the public network)
+- Transfer (Do not send your private key parameter over the public network. Be aware that privatekey should be managed carefully)
 - Transfer (Fee delegated to master)
 - Get balance
 - Get token info
