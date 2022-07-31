@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/dqvwj4pl2/image/upload/v1659149392/SendInAir%20design/BAYC_nft_list_sxn5po.png" />
 </p>
 
-SendInAir NFT API solves the hardest part of making NFT service and provides APIs for integrating into your Web3 service.
+SendInAir solves the hardest part of making NFT service and provides APIs for integrating into your Web3 service.
 
 <br/>
 
